@@ -1,0 +1,9 @@
+.card {
+    font-family: Georgia, serif;
+    text-align: left;
+    width: 18em;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -70%);
+}
