@@ -1,9 +1,14 @@
 # Aperta Bank
 Developed using Visual Studio Code for Windows, learning about the developing a simple online banking web application using React.
 ## How to install
-Clone the repository and change directory to the deployment root directory, then execute the "http-server -c-1" command to start the application.
+Clone the repository and change directory to the deployment root directory, for example C:\Coding\aperta-bank, then install the following dependencies:
+1. npm install bootstrap
+2. npm install formik
+3. npm install react-bootstrap
+4. npm install react-router-dom
+Execute the "npm start" command to start the application.
 ## Usage
-Web browse to http://localhost:8080/ in a web browser of choice and enjoy.
+Web browse to http://localhost:3000/ in a web browser of choice and enjoy.
 ## Roadmap
 Adding functionality to log in as a different user, and not being able to see each other's account details.
 ## License
