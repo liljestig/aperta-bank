@@ -15,27 +15,27 @@ const NavBar = () => {
     /* future plan to collapse into single function */
     const renderApertaBankTooltip = (props) => (
         <Tooltip id="link-tooltip" {...props}>
-            Aperta means open
+            Go to Home
         </Tooltip>
     );
     const renderCreateAccountTooltip = (props) => (
         <Tooltip id="link-tooltip" {...props}>
-            Join us and
+            Open Account
         </Tooltip>
     );
     const renderDepositTooltip = (props) => (
         <Tooltip id="link-tooltip" {...props}>
-            experience the
+            Make a Deposit
         </Tooltip>
     );
     const renderWithdrawTooltip = (props) => (
         <Tooltip id="link-tooltip" {...props}>
-            true sense of
+            Withdraw Funds
         </Tooltip>
     );
     const renderAllDataTooltip = (props) => (
         <Tooltip id="link-tooltip" {...props}>
-            financial freedom
+            View All Data
         </Tooltip>
     );
 
