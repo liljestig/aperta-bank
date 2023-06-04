@@ -1,5 +1,5 @@
 # Aperta Bank
-Developed using Visual Studio Code for Windows, learning about the developing a simple online banking web application using React.
+Developed using Visual Studio Code for Windows, learning about developing a simple online banking web application using React.
 ## How to install
 Clone the repository and change directory to the deployment root directory, for example C:\Coding\aperta-bank, then install the following dependencies:
 1. npm install bootstrap
